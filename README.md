@@ -14,7 +14,7 @@ I am a Computer Science graduate based in Monterrey, Mexico, specializing in bui
 ### Highlighted Projects
 
 * **[Konbot]** — A zero-dependency Natural Language Processing engine built in pure C++ that implements Word2Vec semantic vector representation from scratch.
-* **[Luxe](Private)** — An end-to-end multi-platform ML classifier (Python + .NET + Swift) trained on NASA Kepler data to predict exoplanets. *(NASA Space Apps Challenge 2025 Global Nominee)*.
+* **[Luxe]** Private — An end-to-end multi-platform ML classifier (Python + .NET + Swift) trained on NASA Kepler data to predict exoplanets. *(NASA Space Apps Challenge 2025 Global Nominee)*.
 
 ### Connect with me
 
