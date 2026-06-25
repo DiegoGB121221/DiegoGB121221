@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Diego Covarrubias 
 
-<!--
-**DiegoGB121221/DiegoGB121221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer | Machine Learning Developer | Python & SQL**
 
-Here are some ideas to get you started:
+I am a Computer Science graduate based in Monterrey, Mexico, specializing in building resilient data pipelines, enterprise migrations, and predictive AI engines. My focus lies at the intersection of robust data engineering and low-latency machine learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Stack
+
+* **Programming & Scripting:** Python, SQL, C++, C#, Swift, JavaScript
+* **Data Engineering & Analytics:** Pandas, NumPy, ETL/ELT Pipelines, Power BI, Advanced Excel
+* **ML & Artificial Intelligence:** Scikit-learn, TensorFlow, WordEmbeddings (Word2Vec), NLP
+* **Enterprise & Infrastructure:** SAP S/4HANA, SAP PP/DS, SAP LTMC, Azure, Linux, Git/GitHub
+
+### Highlighted Projects
+
+* **[Konbot]** — A zero-dependency Natural Language Processing engine built in pure C++ that implements Word2Vec semantic vector representation from scratch.
+* **[Luxe](Private)** — An end-to-end multi-platform ML classifier (Python + .NET + Swift) trained on NASA Kepler data to predict exoplanets. *(NASA Space Apps Challenge 2025 Global Nominee)*.
+
+### Connect with me
+
+* **LinkedIn:** [Diego Covarrubias García](https://linkedin.com/in/diego-covarrubias-garcía-8b84b721b)
+* **Email:** diegocg121221@gmail.com
+* **Location:** Monterrey, N.L., Mexico *(Available for local & remote roles)*
